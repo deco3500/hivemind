@@ -145,6 +145,19 @@ Phases will follow the Scrum methodology for sprints so that each sprint lasts f
 | Week 10 - Week 12 Finalisation of Development |<li>Project Prototype Stand-up - Week 10 & Week 12</li><li>Usability testing</li><li>Front-end and back-end development</li><li>Iteration of prototype</li> |
 | Week 13 Final Deliverable |<li>Final Prototype Presentation</li> |
 
+## Resources
+
+InVision
+Adobe Illustrator
+Adobe Photoshop
+Participants for user testing
+GitHub
+IDE, Text editor
+
+The development and implementation phases of the project are expected to be fairly evenly focused on both the front-end and the back-end development work. This even spread of front-end and back-end work is due to having to develop a comprehensive front-end system, with  the implementation of APIs and other necessary features completed within the backend.
+The project is expected to be mainly completed using dynamic HTML, CSS, and JavaScript, with other languages used where needed. 
+
+
 ## Tags
 
 \#Research
