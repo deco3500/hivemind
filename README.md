@@ -169,12 +169,8 @@ The project is expected to be mainly completed using dynamic HTML, CSS, and Java
 
 \#ContentAggregation
 
-\#Connectivity
-
 \#Timeline
 
 \#UserExperience
-
-\#ContextAwareness
 
 \#Corroboration
