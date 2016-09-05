@@ -43,19 +43,17 @@ It is anticipated that users will prioritise news articles which provide quality
 
 The main target audience is 25-35 year olds with an expansive aim to include a teenage audience. This due to the large percentage of this age group who use social media. With this comes the social nature of sharing news and adding to the trends of news information. These ages also show signs of frustration with current media.
 
-Promotes exploration of news stories, not just limited to one article source. Can look for previous related news and new additional information.
+The project and objectives promotes exploration of news stories, with users not just limited to one article source, as they are able to search for previous related news and new additional information. 
 
-Allow the user to generate links between news stories to outline connections between its content, based on their own opinion of relevance. The user can effectively create a story using the news content to expand upon events as they unfold or to delve further into a news stories history by connecting previous information sources.
+This connectivity allows the user to generate links between news stories to outline connections between its content, based on their own opinion of relevance. The user can effectively create a story using the news content to expand upon events as they unfold or to delve further into a news stories history by connecting previous information sources.
 
 This way it can effectively address issues and history of news content, for situations such as those found in news coverage of conflicts. Users are able to sort through the history of a conflict and discover pertinent information from previous stories. If a user feels that a certain article from the past has effectively lead to or been associated with areas of the current article, they are able to share this with others by highlighting this connection through the application.
 
-Making links that are created by users, rather than automated. Facilitates research by following links made for the news stories.
-
-Gathering public opinion on what is considered as related issues and bringing forward importance of sharing information across platforms and keeping previous news in the forefront for informing current news topics.
+The aim of the project is to create links that are connected by users, rather than automated. As part of the research for the project, gathering public opinion on what is considered as related issues and bringing forward importance of sharing information across platforms and keeping previous news in the forefront for informing current news topics is of very high importance.
 
 Furthermore, research has shown that [64% of social media](http://www.journalism.org/2016/07/07/the-modern-news-consumer/) news users only get news on one site. This project aims to provide a means to explore news across multiple sites, providing better coverage and helping to limit exposure to bias.
 
-While existing platforms such as **Reddit** and **Twitter** allow for access to current news and shared news stories, they lack a quality to allow for a deep exploration of related and expansive stories. The connections between their news content is not always made clear or easily accessible. Twitter is oversaturated with irrelevant content while Reddit&#39;s news categories offer only a small section of the overall news elements.
+While existing platforms such as **Reddit** and **Twitter** allow for access to current news and shared news stories, they lack a quality to allow for a deep exploration of related and expansive stories. The connections between their news content is not always made clear or easily accessible. Twitter is oversaturated with irrelevant content while Reddit’s news categories offer only a small section of the overall news elements. 
 
 ## Team
 
