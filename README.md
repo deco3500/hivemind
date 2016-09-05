@@ -168,12 +168,12 @@ Phases will follow the Scrum methodology for sprints so that each sprint lasts f
 
 ## Tags
 
-#Research
+\#Research
 
-#ContentAggregation
+\#ContentAggregation
 
-#Connectivity
+\#Connectivity
 
-#Timeline
+\#Timeline
 
 #UserExperience
