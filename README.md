@@ -47,7 +47,7 @@ Promotes exploration of news stories, not just limited to one article source. Ca
 
 Allow the user to generate links between news stories to outline connections between its content, based on their own opinion of relevance. The user can effectively create a story using the news content to expand upon events as they unfold or to delve further into a news stories history by connecting previous information sources.
 
-This way it can effectively address issues and history of news content, for situations such as those found in news coverage of conflicts. Users are able to sort through the history of a conflict and discover [pertinent](http://www.thesaurus.com/browse/pertinent) information from previous stories. If a user feels that a certain article from the past has effectively lead to or been associated with areas of the current article, they are able to share this with others by highlighting this connection through the application.
+This way it can effectively address issues and history of news content, for situations such as those found in news coverage of conflicts. Users are able to sort through the history of a conflict and discover pertinent information from previous stories. If a user feels that a certain article from the past has effectively lead to or been associated with areas of the current article, they are able to share this with others by highlighting this connection through the application.
 
 Making links that are created by users, rather than automated. Facilitates research by following links made for the news stories.
 
