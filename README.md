@@ -13,7 +13,7 @@
 
 ## Introduction
 
-During the course of the semester for DECO3500, Team Hivemind aims to
+During the course of the semester for DECO3500, Team Hivemind aims to follow the objectives outlined in this proposal. This proposal will discuss the overall concept and idea, going into depth about how our project will work and what benefits the users will have from using our proposed application. In order to achieve these objectives the proposal also describes our plan, which includes a timeline of team deadlines, in partnership with this we will also have team roles and some general rules which will help keep clarity high in regards to tasks and workload.
 
 ###Problem Space
 
