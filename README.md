@@ -1,28 +1,39 @@
-# DECO3500 Proposal - Hivemind
+# DECO3500 Proposal
 
-## Introduction:
 
-During the course of the semester for DECO3500
 
-Problem Space:
+|
+#  Team Hivemind
+ |
+| --- |
+| Naomi Mason | 43565337 |
+| Melinda Piper | 42634375 |
+| Kristi Grafton | 43545067 |
+| Ben Fowler | 43584972 |
+
+## Introduction
+
+During the course of the semester for DECO3500, Team Hivemind aims to
+
+Problem Space
 
 **1.** Improve network of news connections to previous relevant news and time-driven news &#39;expiry&#39;. Extend exposure to past news and generation of full news story.**
 
- News has an unspoken expiry date from reporting. Current news has limited effect or callback to previous related information which may be relevant to current situation. Develop system that encompases previous news to outline relevance.
+ News has an unspoken expiry date from reporting. Current news has limited effect or callback to previous related information which may be relevant to current situation. Develop system that encompases previous news to outline relevance, and create a timeline of events over time.
 
 **2.** Limit overexposure of commercialised news prone to bias and oversaturation of information**
 
 Community driven exposure to news and development of related content generation. Creating connections to expose extended news from outside singular articles.
 
-## Concept:
+## Concept
 
-Outline of idea - 
+Outline of idea (In Zenpen - will be exported straight into the readme when done)
 
 The primary purpose of this application is to provide a platform in which users are able to collaborate in a manner which enriches news articles. This is done through a news timeline system, which users can create by linking relevant articles together, creating a platform through which users are able to inform themselves further efficiently and effectively. In order to filter out information which may be less valuable to each user, there will be a &quot;relevancy voting system&quot; which will remove articles from said timeline if consistently flagged as providing nothing of value to the main story.
 
 In addition to this, the news feed itself prioritises articles based on how regularly users are viewing a particular story. This allows users to essentially vote with their eyes, ensuring that news outlets that the community believes are valuable sources are brought to the top of their feeds. This should also potentially ensures that duplicate stories are not presented to the reader, stopping the news feed itself from being bloated by one particular topic.
 
-Rationale -
+Rationale
 
 The main target audience is 25-35 year olds with an expansive aim to include a teenage audience. This due to the large percentage of this age group who use social media. With this comes the social nature of sharing news and adding to the trends of news information. These ages also show signs of frustration with current media.
 
@@ -40,7 +51,7 @@ Furthermore, research has shown that 64% of social media news users only get new
 
 While existing platforms such as **Reddit** and **Twitter** allow for access to current news and shared news stories, they lack a quality to allow for a deep exploration of related and expansive stories. The connections between their news content is not always made clear or easily accessible. Twitter is oversaturated with irrelevant content while Reddit&#39;s news categories offer only a small section of the overall news elements.
 
-## Team: - 
+## Team
 
 General Rules
 
@@ -83,9 +94,7 @@ Tasked with Front-End Development and the Visual Design for the application, thi
 
 The researchers main responsibility is to collaborate with the Team Leader in finding solutions to certain problems that may arise, whilst also looking into new innovative ways to design our project. Furthermore they must research potential stakeholders, who our target audience will be and how we can adapt our project in order for the reception of the final product to be positive.
 
-## Communications: - 
-
-_Highly effective communications plan that creatively exploits affordances of the chosen online collaboration space_
+## Communications
 
 As mention previously in the General Rules section, communication is a vital aspect of working together as a team. It should be relatively easy and convenient for each member to access and communicate with other members of the team.
 
@@ -93,7 +102,7 @@ We will be using our own channel in the DECO3500 Slack page to communicate mostl
 
 Team Meetings will also be held, with one every week 1 hour prior to the Wednesday 4pm workshop session, this will help us centralize our idea and collaborate most effectively, giving us a plan heading into the 2 hour workshop. All members should be present and if circumstances prevents a member from attending they must notify the group with sufficient time before the commencement of the meeting. The members can make use of Slack to communicate this information to the group. During these sessions it is planned that all members will participate in a weekly stand up scrum meeting, outlining what work they have completed, what they will be working on in the next week and any issues that may prevent the completion of their task.
 
-## Plan: - (Kristi)
+## Plan
 
 Our plan for the semester is to provide an innovative solution to deliver streamlined and informative news that isn&#39;t over saturated with the same bias and information. We also aim to creating connections by users through public opinion on what is considered to be related content. This allows user to access the news in a streamlined and succinct way.
 
@@ -120,36 +129,51 @@ Deadlines For The Project:
 - **●●** Individual Portfolio - October 28
 - **●●** Project and Context Reflection - November 6
 
+Phases will follow the Scrum methodology for sprints so that each sprint lasts for 2 Weeks.
 
-
-
-
-| **Stage** | **Deliverables** |
+| **Phases** | **Deliverables** |
 | --- | --- |
 | Week 3 - Week 4Planning and Research |
-- **●** Idea generation and development of Concept
-- **●** Identifying problem space|
+- **●●** Idea generation and development of Concept
+- **●●** Identifying problem space
+  |
 | Week 5 - Week 7Proposal and Design |
-- **●** UX testing undertaken to determine the initial designs
+- **●●** Proposal Presentation
+  - **○○** Week 6
+- **●●** Proposal Report
+  - **○○** Week 7
+- **●●** UX testing undertaken to determine the initial designs
 
-- **●** Confirmation of features to include from results of UX testing
-- **●** Wireframes and UI Design Mock-ups
-- **●** Identifying Context and Stakeholders
+- **●●** Confirmation of features to include from results of UX testing
+- **●●** Wireframes and UI Design Mock-ups
+- **●●** Identifying Context and Stakeholders
  |
 | Week 8 - Week 10Revision and Implementation |
-- **●** Prototype development and;
-- **●** Implementation of basic features
-- **●** Front-end development
-- **●** Project Prototype Stand-up
-  - **○**  (Week 8 + Week 10)
-- **●**
+- **●●** Project Prototype Stand-up
+  - **○○** Week 8 + Week 10
+- **●●** Prototype development and;
+- **●●** Implementation of basic features
+- **●●** Front-end development
  |
-| Week 10 - Week 12Finalisation of Development |    |
+| Week 10 - Week 12Finalisation of Development |
+- **●●** Project Prototype Stand-up
+  - **○○** Week 10 + Week 12
+- **●●** Usability testing
+- **●●** Front-end and back-end development
+- **●●** Iteration of prototype
+ |
+| Week 13Final Deliverable |
+- **●●** Final Prototype Presentation
+ |
 
-## Tags:
+## Tags
 
--  Research
--  Content aggregation
--  App
--  Timeline
--  User Experience
+#Research
+
+#ContentAggregation
+
+#Connectivity
+
+#Timeline
+
+#UserExperience
