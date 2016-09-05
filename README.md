@@ -15,7 +15,7 @@
 
 During the course of the semester for DECO3500, Team Hivemind aims to
 
-Problem Space
+###Problem Space
 
 **1. Improve network of news connections to previous relevant news and time-driven news &#39;expiry&#39;. Extend exposure to past news and generation of full news story.**
 
@@ -27,13 +27,19 @@ Community driven exposure to news and development of related content generation.
 
 ## Concept
 
-Outline of idea (In Zenpen - will be exported straight into the readme when done)
+###Outline of Idea
 
-The primary purpose of this application is to provide a platform in which users are able to collaborate in a manner which enriches news articles. This is done through a news timeline system, which users can create by linking relevant articles together, creating a platform through which users are able to inform themselves further efficiently and effectively. In order to filter out information which may be less valuable to each user, there will be a &quot;relevancy voting system&quot; which will remove articles from said timeline if consistently flagged as providing nothing of value to the main story.
+Hivemind is a news aggregation application specifically designed to provide a social solution for developing timelines of developing stories. Instead of creating curated feeds of posts which are then developed into stories themselves - Hivemind aims to provide a solution wherein news articles can be linked to one another through user suggestions.
 
-In addition to this, the news feed itself prioritises articles based on how regularly users are viewing a particular story. This allows users to essentially vote with their eyes, ensuring that news outlets that the community believes are valuable sources are brought to the top of their feeds. This should also potentially ensures that duplicate stories are not presented to the reader, stopping the news feed itself from being bloated by one particular topic.
+The timeline at the core of each story within Hivemind is a series of connections the user creates between other news articles. The intention is to create a web of content which can lead the user to explore previous events which may provide context the reader may have been missing prior to reading the story. By doing this, the application will be able to streamline each user's news experience, essentially keeping all their researching on a given topic within the application itself.&nbsp;
 
-Rationale
+The user population will for the most part determine the fate of each timeline. Users can add articles which they believe contribute to the greater understanding of each particular story, which other users are then able to vote on. If a story is consistently tagged as relevant, the article ties itself to the other story allowing future links to the parent story to automatically add previous relevant articles as to quickly populate the timeline. If an article is consistently flagged as not relevant to a particular story, it will be removed from the timeline.&nbsp;
+
+When the user first interacts with the application, they will be presented with a news feed of recent popular stories (which will be determined by the number of clicks a particular article receives within its first 24 hours). From there, users are able to swipe right from the article view to bring up a timeline of events which allows the user to view any related articles the community deems relevant to the current story. As it is likely that previous articles have their own linked stories, it's expected that these links will automatically join the timeline once the story is added.
+
+It is anticipated that users will prioritise news articles which provide quality information which aids the reader in understanding the events which occurred. In addition to this, it is highly likely that the community will come to prioritise particular news sites over others as trusted sources.
+
+###Rationale
 
 The main target audience is 25-35 year olds with an expansive aim to include a teenage audience. This due to the large percentage of this age group who use social media. With this comes the social nature of sharing news and adding to the trends of news information. These ages also show signs of frustration with current media.
 
@@ -53,7 +59,7 @@ While existing platforms such as **Reddit** and **Twitter** allow for access to 
 
 ## Team
 
-General Rules
+###General Rules
 
 To be sure that we as a Team stay on target and within deadline, it can be beneficial to follow a set of rules. This way we are all being treated equally and we are all on the same page about what&#39;s okay and what&#39;s not.
 
@@ -65,7 +71,7 @@ This is a very important regulation to have, particularly in a team environment 
 
 This ties together with sharing the workload in the sense that if everyone is communicating properly then there should be no issues about what tasks are assigned to each person. Communicating also involves letting others know how you feel about certain concepts, sharing your ideas, making critical observations and informing others of your personal progress. If all this is done correctly then the team should work more efficiently and more as 1 group rather than 4 individuals.
 
-Roles
+###Roles
 
 | **Team Member** | **Responsibilities** |
 | --- | --- |
@@ -74,7 +80,7 @@ Roles
 | Ben Fowler | Designer |
 | Krisi Grafton | Researcher |
 
-Responsibilities
+###Responsibilities
 
 These responsibilities are to be taken up by those who hold the role, however it is important that the workload is equal therefore it may be necessary for everyone to help out with some aspects or for one role to help another. This would leave a more desired and flexible workspace.
 
@@ -108,12 +114,12 @@ Our plan for the semester is to provide an innovative solution to deliver stream
 
 We hope to be able to meet project milestones in order to be able to deliver a complete project which meets users needs. Specific milestones of the project include:
 
-Initial Design and Development:
+###Initial Design and Development:
 
 - **●●** Researching what determines relevance - so users can add links to other articles, and have confirmation of relevance. These links can form news timelines, and timelines can show analytics of certain topics.
 - **●●** Developing a basic dynamic web application in order to design and develop further from user testing
 
-Implementation of Features:
+###Implementation of Features:
 
 - **●●** Implementing essential features such as sorting news by popularity each 24h by default - allows user to read by upcoming stories.
 - **●●** Allowing users to register with an account, most likely facebook, in order to add relevancy links and save user preferences
@@ -122,7 +128,7 @@ Implementation of Features:
 
 In  order to successfully meet deadlines and produce a successful project, the team will be developed in the following order; ongoing research, paper prototype, UX testing, basic digital prototyping, further UX testing, and the final delivery of the finished product.
 
-Deadlines For The Project:
+###Deadlines For The Project:
 
 - **●●** Proposal - Week 7
 - **●●** Design Prototype Demonstration - Week 13
@@ -133,11 +139,11 @@ Phases will follow the Scrum methodology for sprints so that each sprint lasts f
 
 | **Phases** | **Deliverables** |
 | --- | --- |
-| Week 3 - Week 4</br>Planning and Research | <li>Idea generation and development of Concept</li><li>Identifying problem space</li> |
-| Week 5 - Week 7</br>Proposal and Design | <li>Proposal Presentation- Week 6</li><li>Proposal Report - Week 7</li><li>UX testing undertaken to determine the initial designs</li><li>Confirmation of features to include from results of UX testing </li><li>Wireframes and UI Design Mock-ups</li><li>Identifying Context and Stakeholders</li> |
-| Week 8 - Week 10</br>Revision and Implementation | <li>Project Prototype Stand-up - Week 8 & Week 10 </li><li>Prototype development and;</li><li>Implementation of basic features</li><li>Front-end development</li> |
-| Week 10 - Week 12</br>Finalisation of Development |<li>Project Prototype Stand-up - Week 10 & Week 12</li><li>Usability testing</li><li>Front-end and back-end development</li><li>Iteration of prototype</li> |
-| Week 13</br>Final Deliverable |<li>Final Prototype Presentation</li> |
+| Week 3 - Week 4 Planning and Research | <li>Idea generation and development of Concept</li><li>Identifying problem space</li> |
+| Week 5 - Week 7 Proposal and Design | <li>Proposal Presentation- Week 6</li><li>Proposal Report - Week 7</li><li>UX testing undertaken to determine the initial designs</li><li>Confirmation of features to include from results of UX testing </li><li>Wireframes and UI Design Mock-ups</li><li>Identifying Context and Stakeholders</li> |
+| Week 8 - Week 10 Revision and Implementation | <li>Project Prototype Stand-up - Week 8 & Week 10 </li><li>Prototype development and;</li><li>Implementation of basic features</li><li>Front-end development</li> |
+| Week 10 - Week 12 Finalisation of Development |<li>Project Prototype Stand-up - Week 10 & Week 12</li><li>Usability testing</li><li>Front-end and back-end development</li><li>Iteration of prototype</li> |
+| Week 13 Final Deliverable |<li>Final Prototype Presentation</li> |
 
 ## Tags
 
