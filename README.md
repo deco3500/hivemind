@@ -53,7 +53,7 @@ Making links that are created by users, rather than automated. Facilitates resea
 
 Gathering public opinion on what is considered as related issues and bringing forward importance of sharing information across platforms and keeping previous news in the forefront for informing current news topics.
 
-Furthermore, research has shown that 64% of social media news users only get news on one site. This project aims to provide a means to explore news across multiple sites, providing better coverage and helping to limit exposure to bias.
+Furthermore, research has shown that [64% of social media](http://www.journalism.org/2016/07/07/the-modern-news-consumer/) news users only get news on one site. This project aims to provide a means to explore news across multiple sites, providing better coverage and helping to limit exposure to bias.
 
 While existing platforms such as **Reddit** and **Twitter** allow for access to current news and shared news stories, they lack a quality to allow for a deep exploration of related and expansive stories. The connections between their news content is not always made clear or easily accessible. Twitter is oversaturated with irrelevant content while Reddit&#39;s news categories offer only a small section of the overall news elements.
 
