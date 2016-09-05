@@ -134,33 +134,22 @@ Phases will follow the Scrum methodology for sprints so that each sprint lasts f
 | **Phases** | **Deliverables** |
 | --- | --- |
 | Week 3 - Week 4 Planning and Research | <li>Idea generation and development of Concept</li><li>Identifying problem space</li> |
-| Week 5 - Week 7Proposal and Design |
-- **●●** Proposal Presentation
-  - **○○** Week 6
-- **●●** Proposal Report
-  - **○○** Week 7
-- **●●** UX testing undertaken to determine the initial designs
-
-- **●●** Confirmation of features to include from results of UX testing
-- **●●** Wireframes and UI Design Mock-ups
-- **●●** Identifying Context and Stakeholders
- |
-| Week 8 - Week 10Revision and Implementation |
-- **●●** Project Prototype Stand-up
-  - **○○** Week 8 + Week 10
-- **●●** Prototype development and;
-- **●●** Implementation of basic features
-- **●●** Front-end development
- |
-| Week 10 - Week 12Finalisation of Development |
-- **●●** Project Prototype Stand-up
-  - **○○** Week 10 + Week 12
-- **●●** Usability testing
-- **●●** Front-end and back-end development
-- **●●** Iteration of prototype
- |
-| Week 13Final Deliverable |
-- **●●** Final Prototype Presentation
+| Week 5 - Week 7 Proposal and Design | <li>Proposal Presentation- Week 6</li><li>Proposal Report - Week 7</li>
+<li>UX testing undertaken to determine the initial designs</li>
+<li>Confirmation of features to include from results of UX testing </li>
+<li>Wireframes and UI Design Mock-ups</li>
+<li>Identifying Context and Stakeholders</li>|
+| Week 8 - Week 10 Revision and Implementation | <li>Project Prototype Stand-up - Week 8 & Week 10 </li>
+<li>Prototype development and;</li>
+<li>Implementation of basic features</li>
+<li>Front-end development</li> |
+| Week 10 - Week 12 Finalisation of Development |
+<li>Project Prototype Stand-up - Week 10 & Week 12</li>
+<li>Usability testing</li>
+<li>Front-end and back-end development</li>
+<li>Iteration of prototype</li> |
+| Week 13 Final Deliverable |
+<li>Final Prototype Presentation</li>
  |
 
 ## Tags
