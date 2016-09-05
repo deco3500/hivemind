@@ -133,10 +133,7 @@ Phases will follow the Scrum methodology for sprints so that each sprint lasts f
 
 | **Phases** | **Deliverables** |
 | --- | --- |
-| Week 3 - Week 4Planning and Research |
-- **●●** Idea generation and development of Concept
-- **●●** Identifying problem space
-  |
+| Week 3 - Week 4 Planning and Research | <li>Idea generation and development of Concept</li><li>Identifying problem space</li> |
 | Week 5 - Week 7Proposal and Design |
 - **●●** Proposal Presentation
   - **○○** Week 6
