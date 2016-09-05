@@ -16,13 +16,13 @@ Community driven exposure to news and development of related content generation.
 
 ## Concept:
 
-Outline of idea - (Naomi)
+Outline of idea - 
 
 The primary purpose of this application is to provide a platform in which users are able to collaborate in a manner which enriches news articles. This is done through a news timeline system, which users can create by linking relevant articles together, creating a platform through which users are able to inform themselves further efficiently and effectively. In order to filter out information which may be less valuable to each user, there will be a &quot;relevancy voting system&quot; which will remove articles from said timeline if consistently flagged as providing nothing of value to the main story.
 
 In addition to this, the news feed itself prioritises articles based on how regularly users are viewing a particular story. This allows users to essentially vote with their eyes, ensuring that news outlets that the community believes are valuable sources are brought to the top of their feeds. This should also potentially ensures that duplicate stories are not presented to the reader, stopping the news feed itself from being bloated by one particular topic.
 
-Rationale - (Mel)
+Rationale -
 
 The main target audience is 25-35 year olds with an expansive aim to include a teenage audience. This due to the large percentage of this age group who use social media. With this comes the social nature of sharing news and adding to the trends of news information. These ages also show signs of frustration with current media.
 
@@ -40,7 +40,7 @@ Furthermore, research has shown that 64% of social media news users only get new
 
 While existing platforms such as **Reddit** and **Twitter** allow for access to current news and shared news stories, they lack a quality to allow for a deep exploration of related and expansive stories. The connections between their news content is not always made clear or easily accessible. Twitter is oversaturated with irrelevant content while Reddit&#39;s news categories offer only a small section of the overall news elements.
 
-## Team: - (Ben)
+## Team: - 
 
 General Rules
 
@@ -83,7 +83,7 @@ Tasked with Front-End Development and the Visual Design for the application, thi
 
 The researchers main responsibility is to collaborate with the Team Leader in finding solutions to certain problems that may arise, whilst also looking into new innovative ways to design our project. Furthermore they must research potential stakeholders, who our target audience will be and how we can adapt our project in order for the reception of the final product to be positive.
 
-## Communications: - (Ben + Kristi)
+## Communications: - 
 
 _Highly effective communications plan that creatively exploits affordances of the chosen online collaboration space_
 
