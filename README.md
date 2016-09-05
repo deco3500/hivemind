@@ -116,24 +116,24 @@ We hope to be able to meet project milestones in order to be able to deliver a c
 
 ###Initial Design and Development:
 
-- **●●** Researching what determines relevance - so users can add links to other articles, and have confirmation of relevance. These links can form news timelines, and timelines can show analytics of certain topics.
-- **●●** Developing a basic dynamic web application in order to design and develop further from user testing
+-  Researching what determines relevance - so users can add links to other articles, and have confirmation of relevance. These links can form news timelines, and timelines can show analytics of certain topics.
+-  Developing a basic dynamic web application in order to design and develop further from user testing
 
 ###Implementation of Features:
 
-- **●●** Implementing essential features such as sorting news by popularity each 24h by default - allows user to read by upcoming stories.
-- **●●** Allowing users to register with an account, most likely facebook, in order to add relevancy links and save user preferences
-- **●●** Displaying analytics for different news topics over time
-- **●●** Implementing a &#39;Search by topic&#39; - is an option that users would be able to select.
+-  Implementing essential features such as sorting news by popularity each 24h by default - allows user to read by upcoming stories.
+-  Allowing users to register with an account, most likely facebook, in order to add relevancy links and save user preferences
+-  Displaying analytics for different news topics over time
+-  Implementing a &#39;Search by topic&#39; - is an option that users would be able to select.
 
 In  order to successfully meet deadlines and produce a successful project, the team will be developed in the following order; ongoing research, paper prototype, UX testing, basic digital prototyping, further UX testing, and the final delivery of the finished product.
 
 ###Deadlines For The Project:
 
-- **●●** Proposal - Week 7
-- **●●** Design Prototype Demonstration - Week 13
-- **●●** Individual Portfolio - October 28
-- **●●** Project and Context Reflection - November 6
+-  Proposal - Week 7
+-  Design Prototype Demonstration - Week 13
+-  Individual Portfolio - October 28
+-  Project and Context Reflection - November 6
 
 Phases will follow the Scrum methodology for sprints so that each sprint lasts for 2 Weeks.
 
