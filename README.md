@@ -6,11 +6,11 @@ During the course of the semester for DECO3500
 
 Problem Space:
 
-**1.**** Improve network of news connections to previous relevant news and time-driven news &#39;expiry&#39;. Extend exposure to past news and generation of full news story.**
+**1.** Improve network of news connections to previous relevant news and time-driven news &#39;expiry&#39;. Extend exposure to past news and generation of full news story.**
 
  News has an unspoken expiry date from reporting. Current news has limited effect or callback to previous related information which may be relevant to current situation. Develop system that encompases previous news to outline relevance.
 
-**2.**** Limit overexposure of commercialised news prone to bias and oversaturation of information**
+**2.** Limit overexposure of commercialised news prone to bias and oversaturation of information**
 
 Community driven exposure to news and development of related content generation. Creating connections to expose extended news from outside singular articles.
 
@@ -149,8 +149,8 @@ Deadlines For The Project:
 
 ## Tags:
 
-- **--** Research
-- **--** Content aggregation
-- **--** App
-- **--** Timeline
-- **--** User Experience
+-  Research
+-  Content aggregation
+-  App
+-  Timeline
+-  User Experience
