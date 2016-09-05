@@ -127,23 +127,22 @@ Deadlines For The Project:
 | **Stage** | **Deliverables** |
 | --- | --- |
 | Week 3 - Week 4Planning and Research |
-- **●●** Idea generation and development of Concept
-- **●●** Identifying problem space
-  |
+- **●** Idea generation and development of Concept
+- **●** Identifying problem space|
 | Week 5 - Week 7Proposal and Design |
-- **●●** UX testing undertaken to determine the initial designs
+- **●** UX testing undertaken to determine the initial designs
 
-- **●●** Confirmation of features to include from results of UX testing
-- **●●** Wireframes and UI Design Mock-ups
-- **●●** Identifying Context and Stakeholders
+- **●** Confirmation of features to include from results of UX testing
+- **●** Wireframes and UI Design Mock-ups
+- **●** Identifying Context and Stakeholders
  |
 | Week 8 - Week 10Revision and Implementation |
-- **●●** Prototype development and;
-- **●●** Implementation of basic features
-- **●●** Front-end development
-- **●●** Project Prototype Stand-up
-  - **○○**  (Week 8 + Week 10)
-- **●●**
+- **●** Prototype development and;
+- **●** Implementation of basic features
+- **●** Front-end development
+- **●** Project Prototype Stand-up
+  - **○**  (Week 8 + Week 10)
+- **●**
  |
 | Week 10 - Week 12Finalisation of Development |    |
 
