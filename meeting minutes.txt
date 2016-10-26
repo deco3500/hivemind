@@ -1,0 +1,21 @@
+meeting minutes:
+
+# Week 8 Stand Up Meeting
+Our first assessed stand up meeting focussed mainly on how we were going to develop the app and what we were going to do as part of the design process. We did have to combat a few hurdles on exactly what features we wanted to implement and how we would choose what to focus on, but it wasn't too difficult to be decisive about choosing specifics.
+##  To do before next stand up: 
+* Make sure specific features to look at have been chose
+* Know what direction we want to take the app
+* Do some basic user testing from ideas
+
+# Week 10 Stand Up Meeting
+The week 10 standup didn't have too much to offer as we were battling due dates which unfortunatrly coincided with the marked stand up week. In the stand up, we spoke about our plans for the next two weeks and what was going to get done, as well as what had already been achieved in the weeks that had passed. The major issue that we wanted to fix up before the next standup meeting was that we had to concentrate more on the design process rather than trying to implement more features.
+
+##  To do before next stand up: 
+* Further user testing (issue opened for this)
+* Have user testing documentation on the wiki page
+* Cover further aspects of design, and focus less on the technical aspects for now
+* Design document to be done covering the basic design process
+
+# Week 12 Stand Up Meeting
+
+##  To do before next stand up: 
