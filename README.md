@@ -1,4 +1,5 @@
 # Hivemmind - A Social Powered News Timeline
+See our wiki for more in depth information!
 
 //Menu goes here//
 * Link to try prototype
@@ -11,6 +12,8 @@ This promotional video covers the concept behind Hivemind, an overview of its fe
 ##Introduction
 "This course is about new ideas. It is about looking at a domain — in this case news — and thinking about how social and web/mobile technologies can be applied in a way that might help people in that domain do things differently, to innovate. Using design thinking and methods, you will work in a multidisciplinary team to develop and deliver a digital, interactive prototype that demonstrates an innovation in news. To begin on this path you need come up with some ideas about what might be possible." - DECO3500 Assessment
 
+The Hivemind project is currently designed using Marvel, an app prototyping platform. By initially designing the app using a prototyping platform, it is much easier and cheaper to find flaws in the application whilst completing a time sensitive project. The goal of the Hivemind application is provide a quick overview of events within the news, and provide a more connected and reliable platform to view a timeline of events.
+
 ## Concept/ About Hivemind
 Hivemind is a news aggregation application specifically designed to provide a social solution for developing timelines of developing stories. Instead of creating curated feeds of posts which are then developed into stories themselves - Hivemind aims to provide a solution wherein news articles can be linked to one another through user suggestions.
 
@@ -18,8 +21,10 @@ Hivemind is a news aggregation application specifically designed to provide a so
 ##Problem Space
 (Description about the problem space, how it was addressed by this particular solution)
 
+The problem space that was chosen to be addressed was that often news is dispersed over multiple agencies and that the news reported can greatly vary for the same event. Hivemind provides a social platform for users to vote articles up and down a scale based on their relevancy to a certain topic or event, and ensure that articles reporting the wrong facts are pushed down the scale. The app also allows users to view a comprehensive timeline of events based on an article's publishing date, so that they are able to see past news associated with an article. This adpatility and voting system allows users to control the flow of news, making it easier for them to find what they're looking for.
+
 ## Design Process
-(Mockups etc)
+The design process started with brainstorming ideas of how a soultuion could address an existing issue or dilemma in the domain of news or journalism. 
 
 ##Hivemind Walkthrough
 * The user opens the app on their device and logs into Facebook. The app can be used without logging in, though adding links or voting is not allowed for users who are not verified. This is to prevent spamming links, multiple votes on a single link, or adding articles which violate the terms of use.
