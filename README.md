@@ -1,4 +1,4 @@
-# Hivemmind - A Social Powered News Timeline
+# Hivemind - A Social Powered News Timeline
 See our wiki for more in depth information!
 
 //Menu goes here//
