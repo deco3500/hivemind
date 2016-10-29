@@ -1,9 +1,7 @@
 # Hivemind - A Social Powered News Timeline
-See our wiki for more in depth information!
+[See our wiki for more in depth information](https://github.com/deco3500/hivemind/wiki)
 
-//Menu goes here//
-* Link to try prototype
-https://marvelapp.com/1e351bh/screen/16159915
+[Try the prototype](https://marvelapp.com/1e351bh/screen/16159915)
 
 ##Promotional Material:
 This promotional video covers the concept behind Hivemind, an overview of its features, and how to use Hivemind.
