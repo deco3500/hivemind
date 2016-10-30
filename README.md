@@ -22,7 +22,9 @@ The main idea behind the article was that we really wanted to create a platform 
 ## Design Process
 The design process started with brainstorming ideas of how a soultuion could address an existing issue or dilemma in the domain of news or journalism. Building off the Inter concept (pictured below) we proposed an application which would build upon the foundations of other news aggregation sites (such as Reddit), and apply them in a manner which would reduce clutter for the user.
 
-(imgur sucks)
+### Original Idea
+
+[![Original Idea Poster](http://i.imgur.com/QfMrIi9.png)]
 
 
 In order to refine this idea, we produced multiple stages of mockups for the purpose of 
