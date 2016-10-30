@@ -37,7 +37,7 @@ We focused a fair bit on including the title of the application in the overall "
 The Hivemind project is currently designed using Marvel, an app prototyping platform. By initially designing the app using a prototyping platform, it is much easier and cheaper to find flaws in the application whilst completing a time sensitive project. We had intended to use a PHP site to demonstrate the concept with greater ease, but we learnt fairly quickly that we weren't going to be able to explain the concept to the same extent within the time restraint as we were able to with Marvel.
 
 ### Early Prototype Site (Left) and Final Marvel Application (Right)
-[![Prototypes](http://66.media.tumblr.com/4f149e8a04201bb3d8e2d17664c39db2/tumblr_ofv4hr1ZXZ1u4y8yno1_1280.png)
+[![Prototypes](http://66.media.tumblr.com/4f149e8a04201bb3d8e2d17664c39db2/tumblr_ofv4hr1ZXZ1u4y8yno1_1280.png)]
 
 ##  Team Hivemind
 
