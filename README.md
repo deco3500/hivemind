@@ -1,10 +1,9 @@
 # Hivemind - A Social Powered News Timeline
 
-## Promotional Material:
-This promotional video covers the concept behind Hivemind, an overview of its features, and how to use Hivemind.
+This promotional video covers the concept behind Hivemind, an overview of its features, and how to use the application.
 [![Hivemind Kickstarter Video](http://img.youtube.com/vi/SuP3krQQcVc/0.jpg)](http://www.youtube.com/watch?v=SuP3krQQcVc "Hivemind")
 
-## [Try the prototype](https://marvelapp.com/1e351bh/screen/16133028)
+# [Try the prototype](https://marvelapp.com/1e351bh/screen/16133028)
 
 Hivemind is a news aggregation application designed to provide a social solution for organising developing stories. Instead of curating a feed of posts which help develop one specific story - Hivemind aims to provide a solution wherein news articles can be linked together via user suggestions. Through this, the application allows users to view a peer assessed timeline of relevant articles to one particular topic, allowing the community to ensure that accurate and unsensationalised reporting is brought to the surface. As a result, we hope to provide a service which will enhance the community's understanding of world events in a greater context.
 
