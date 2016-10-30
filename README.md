@@ -21,19 +21,23 @@ The main idea behind the article was that we really wanted to create a platform 
 ## Design Process
 The design process started with brainstorming ideas of how a soultuion could address an existing issue or dilemma in the domain of news or journalism. Building off the Inter concept (pictured below) we proposed an application which would build upon the foundations of other news aggregation sites (such as Reddit), and apply them in a manner which would reduce clutter for the user.
 
-+### Original Idea
- +
- +[![Original Idea Poster](http://i.imgur.com/QfMrIi9.png)]
+### Original Idea
+[![Original Idea Poster](http://i.imgur.com/QfMrIi9.png)]
 
-In order to refine this idea, we produced multiple stages of mockups for the purpose of determining how exactly users would interact with this specific concept.
+In order to refine this idea, we produced multiple stages of mockups for the purpose of determining how exactly users would interact with this specific concept. 
 
+[![Example Paper Prototype](https://camo.githubusercontent.com/aeadca8d87db96837634da5d941bb7e70fe82715/687474703a2f2f692e696d6775722e636f6d2f4d305a326c307a2e6a7067)]
 
 Reasonably early on in the development, we determined what the overall aesthetics of the application would be. We opted to style the application in a similar manner to that of an iOS news application, ensuring that we could rely somewhat on the already established visual language for that format (ultimately allowing us to more easily apply emotional design to the product).
 
 We focused a fair bit on including the title of the application in the overall "feel" of the application. From featuring honeycombs in icons, to featuring a grey, white, and yellow colour scheme, we tried to ensure that we kept an almost playful reminder of the name of the application in each layer of the product. 
 
 
+
 The Hivemind project is currently designed using Marvel, an app prototyping platform. By initially designing the app using a prototyping platform, it is much easier and cheaper to find flaws in the application whilst completing a time sensitive project. We had intended to use a PHP site to demonstrate the concept with greater ease, but we learnt fairly quickly that we weren't going to be able to explain the concept to the same extent within the time restraint as we were able to with Marvel.
+
+### Early Prototype Site (Left) and Final Marvel Application (Right)
+[![Prototypes](http://66.media.tumblr.com/4f149e8a04201bb3d8e2d17664c39db2/tumblr_ofv4hr1ZXZ1u4y8yno1_1280.png)
 
 ##  Team Hivemind
 
