@@ -32,16 +32,16 @@ The initial colour scheme and logo design ties in with the name Hivemind. The wo
 The app layout itself is another simple alteration of the classic news app design, with a list of articles in the form of clickable tiles with a simple facebook login screen previous to that which also displays the logo.
 
 
-|
 ##  Team Hivemind
- So we need to have a breakdown of who did what. 
- 
 
-| --- |--- |
-| Naomi Mason | 43565337 |
-| Melinda Piper | 42634375 |
-| Kristi Grafton | 43545067 |
-| Ben Fowler | 43584972 |
+| Team Member | Student Number	|  Role 	|
+|---	|---	|---	|
+|  Naomi Mason 	|  43565337 	|  Prototype Designer. Produced homepages and transitional pages for Marvel application. Worked on documentation. 	|
+|  Melinda Piper 	|  42634375 	|  Prototype Designer. Produced the core Hivemind feature pages for Marvel application. Produced and tested paper prototype. 	|
+|  Kristi Grafton 	|  43545067 	|  Prototype Designer. Produced article pages for Marvel application. Did documentation and pleliminary user testing.	|
+|  Ben Fowler 	|  43584972 	|  UI Designer. Produced promotional video and hi-fidelity mockups. Also provided pleliminary user testing.	|
+
+
 
 
 [See our wiki for more in depth information](https://github.com/deco3500/hivemind/wiki)
