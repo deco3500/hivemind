@@ -2,13 +2,12 @@
 
 This promotional video covers the concept behind Hivemind, an overview of its features, and how to use the application.
 [![Hivemind Kickstarter Video](http://img.youtube.com/vi/SuP3krQQcVc/0.jpg)](http://www.youtube.com/watch?v=SuP3krQQcVc "Hivemind")
+
 [See our wiki for more in depth information](https://github.com/deco3500/hivemind/wiki)
 
 ### [Try the prototype](https://marvelapp.com/1e351bh/screen/16133028)
 
-The Hivemind project is currently designed using Marvel, an app prototyping platform. By initially designing the app using a prototyping platform, it is much easier and cheaper to find flaws in the application whilst completing a time sensitive project. The goal of the Hivemind application is provide a quick overview of events within the news, and provide a more connected and reliable platform to view a timeline of events.
-
-Hivemind is a news aggregation application designed to provide a social solution for organising developing stories. Instead of curating a feed of posts which help develop one specific story - Hivemind aims to provide a solution wherein news articles can be linked together via user suggestions. Through this, the application allows users to view a peer assessed timeline of relevant articles to one particular topic, allowing the community to ensure that accurate and unsensationalised reporting is brought to the surface. As a result, we hope to provide a service which will enhance the community's understanding of world events in a greater context.
+Hivemind is a news aggregation application designed to provide a remote asynchronous solution for organising developing stories. Instead of curating a feed of posts which help develop one specific story - Hivemind aims to provide a solution wherein news articles can be linked together via user suggestions. Through this, the application allows users to view a peer assessed timeline of relevant articles to one particular topic, allowing the community to ensure that accurate and unsensationalised reporting is brought to the surface. As a result, we hope to provide a service which will enhance the community's understanding of world events in a greater context.
 
 ## Problem Space
 ### Our initial Problem Space
@@ -22,20 +21,17 @@ The main idea behind the article was that we really wanted to create a platform 
 ## Design Process
 The design process started with brainstorming ideas of how a soultuion could address an existing issue or dilemma in the domain of news or journalism. Building off the Inter concept (pictured below) we proposed an application which would build upon the foundations of other news aggregation sites (such as Reddit), and apply them in a manner which would reduce clutter for the user.
 
-### Original Idea
+(imgur sucks)
 
-[![Original Idea Poster](http://i.imgur.com/QfMrIi9.png)]
+In order to refine this idea, we produced multiple stages of mockups for the purpose of determining how exactly users would interact with this specific concept.
 
 
-In order to refine this idea, we produced multiple stages of mockups for the purpose of 
-The style and design of these mockups was done with the purpose of being carried on to the final product, this way the colour scheme and layout could be decided upon early so other issues could be attended to.
+Reasonably early on in the development, we determined what the overall aesthetics of the application would be. We opted to style the application in a similar manner to that of an iOS news application, ensuring that we could rely somewhat on the already established visual language for that format (ultimately allowing us to more easily apply emotional design to the product).
 
-The initial colour scheme and logo design ties in with the name Hivemind. The word hive has a common association with Bees, which further correlates into the bright yellow colour used for the colour palette. On top of this the logo is another play on the word Hivemind, as there are yellow hexagons in a honeycomb-like pattern(hive) inside a human head(mind). In regards to the remainder of the colour scheme, a simple application formula was used with light colours such as white and greys used for the tiles and background.
+We focused a fair bit on including the title of the application in the overall "feel" of the application. From featuring honeycombs in icons, to featuring a grey, white, and yellow colour scheme, we tried to ensure that we kept an almost playful reminder of the name of the application in each layer of the product. 
 
-The app layout itself is another simple alteration of the classic news app design, with a list of articles in the form of clickable tiles with a simple facebook login screen previous to that which also displays the logo.
 
-[See more of our design process in our wiki] (https://github.com/deco3500/hivemind/wiki/User-Testing-Marvel-Prototype)
-
+The Hivemind project is currently designed using Marvel, an app prototyping platform. By initially designing the app using a prototyping platform, it is much easier and cheaper to find flaws in the application whilst completing a time sensitive project. We had intended to use a PHP site to demonstrate the concept with greater ease, but we learnt fairly quickly that we weren't going to be able to explain the concept to the same extent within the time restraint as we were able to with Marvel.
 
 ##  Team Hivemind
 
