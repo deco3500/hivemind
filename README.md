@@ -5,7 +5,7 @@
 
 ## Promotional Material:
 This promotional video covers the concept behind Hivemind, an overview of its features, and how to use Hivemind.
-[![Hivemind Kickstarter Video](http://img.youtube.com/vi/p6Wl6kO_hCI/0.jpg)](http://www.youtube.com/watch?v=p6Wl6kO_hCI "Hivemind")
+[![Hivemind Kickstarter Video](http://img.youtube.com/vi/SuP3krQQcVc/0.jpg)](http://www.youtube.com/watch?v=SuP3krQQcVc "Hivemind")
 
 ## Introduction
 "This course is about new ideas. It is about looking at a domain — in this case news — and thinking about how social and web/mobile technologies can be applied in a way that might help people in that domain do things differently, to innovate. Using design thinking and methods, you will work in a multidisciplinary team to develop and deliver a digital, interactive prototype that demonstrates an innovation in news. To begin on this path you need come up with some ideas about what might be possible." - DECO3500 Assessment
