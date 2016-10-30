@@ -24,7 +24,7 @@ The design process started with brainstorming ideas of how a soultuion could add
 #### Original Idea
 ![Original Idea Poster](http://i.imgur.com/QfMrIi9.png)
 
-In order to refine this idea, we produced multiple stages of mockups for the purpose of determining how exactly users would interact with this specific concept. 
+In order to refine this idea, we produced multiple stages of mockups for the purpose of determining how exactly users would interact with this specific concept. The prototyping that was undertaken for Hivemind proved to be a valuable source of research for the final stage of the project; completing the final design. The prototypes allowed an insight into the types of users who were most likely to use Hivemind, and where any flaws occurred in the design at any given time. Through both paper and digital prototyping we were able to continually improve the designs in order to meet our initial problem space and develop a proper solution.
 
 ![Example Paper Prototype](https://camo.githubusercontent.com/aeadca8d87db96837634da5d941bb7e70fe82715/687474703a2f2f692e696d6775722e636f6d2f4d305a326c307a2e6a7067)
 #### [Click here for more information on the paper prototyping](https://github.com/deco3500/hivemind/wiki/Paper-Prototype)
