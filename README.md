@@ -34,6 +34,12 @@ The main idea behind the article was that we really wanted to create a platform 
 ## Design Process
 The design process started with brainstorming ideas of how a soultuion could address an existing issue or dilemma in the domain of news or journalism. 
 
+The style and design of these mockups was done with the purpose of being carried on to the final product, this way the colour scheme and layout could be decided upon early so other issues could be attended to.
+
+The initial colour scheme and logo design ties in with the name Hivemind. The word hive has a common association with Bees, which further correlates into the bright yellow colour used for the colour palette. On top of this the logo is another play on the word Hivemind, as there are yellow hexagons in a honeycomb-like pattern(hive) inside a human head(mind). In regards to the remainder of the colour scheme, a simple application formula was used with light colours such as white and greys used for the tiles and background.
+
+The app layout itself is another simple alteration of the classic news app design, with a list of articles in the form of clickable tiles with a simple facebook login screen previous to that which also displays the logo.
+
 ## Hivemind Walkthrough
 * The user opens the app on their device and logs into Facebook. The app can be used without logging in, though adding links or voting is not allowed for users who are not verified. This is to prevent spamming links, multiple votes on a single link, or adding articles which violate the terms of use.
 * The user then lands of the Hivemind main page, where they can toggle between an overview of Hot Stories, New Stories, and also Search for Stories. From the main page, users can also upadate their settings.
