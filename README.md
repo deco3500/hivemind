@@ -32,6 +32,8 @@ The initial colour scheme and logo design ties in with the name Hivemind. The wo
 
 The app layout itself is another simple alteration of the classic news app design, with a list of articles in the form of clickable tiles with a simple facebook login screen previous to that which also displays the logo.
 
+[See more of our design process in our wiki] (https://github.com/deco3500/hivemind/wiki/User-Testing-Marvel-Prototype)
+
 
 ##  Team Hivemind
 
